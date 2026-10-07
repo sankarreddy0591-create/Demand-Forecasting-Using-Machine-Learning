@@ -170,9 +170,57 @@ The exact number of rows and columns can be added here based on the final datase
 
 ---
 
-# 9. Methodology
+# 9. Methodology WorkFlow
 ---
 The project follows an end-to-end Data Science and Machine Learning workflow.
+```
+                    DEMAND FORECASTING PROJECT
+                              │
+                              ▼
+                     Problem Definition
+                              │
+                              ▼
+                         Load Dataset
+                              │
+                              ▼
+                     Data Understanding
+                              │
+                              ▼
+                        Data Cleaning
+                              │
+                              ▼
+                  Feature Engineering
+                              │
+                              ▼
+                             EDA
+                              │
+                              ▼
+                    Prepare ML Dataset
+                              │
+                              ▼
+                    Categorical Encoding
+                              │
+                              ▼
+                     Train-Test Split
+                              │
+                              ▼
+                         ML Model
+                              │
+                              ▼
+                     Hyperparameter Tuning
+                              │
+                              ▼
+                         Best Model
+                              │
+                              ▼
+                         Prediction
+                              │
+                              ▼
+                    Model Evaluation
+                              │
+                              ▼
+                   Feature Importance
+```
 
 ### Step 1 — Data Collection
 
