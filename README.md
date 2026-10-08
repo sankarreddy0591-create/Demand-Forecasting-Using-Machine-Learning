@@ -444,26 +444,44 @@ A collection of visualizations showing:
 * Demand distribution
 !["demand distributio"](output/images/Demand%20Distribution.png)
 
+<img width="590" height="458" alt="Demand Distribution" src="https://github.com/user-attachments/assets/70a9d8bd-36c7-449c-af2f-1d55f345b942" />
+
 * Category-level demand
 !["Category-level demand"](output/images/Demand%20By%20Category.png)
+
+<img width="574" height="506" alt="Demand By Category" src="https://github.com/user-attachments/assets/8e12c83a-f472-4974-b436-9d598c15e757" />
 
 * Inventory and sales relationships
 !["Inventory and sales relationship"](output/images/Inventory%20vs%20Units%20Sold.png)
 
+<img width="574" height="458" alt="Inventory vs Units Sold" src="https://github.com/user-attachments/assets/1566d266-ae97-4df9-8d3c-e714b191c349" />
+
+
 * Promotion impact
 !["Promotion impact"](output/images/Promotion%20Impact%20On%20Demand.png)
+
+<img width="574" height="458" alt="Promotion Impact On Demand" src="https://github.com/user-attachments/assets/2de20abf-b073-48aa-8d28-e12a43cb0327" />
 
 * Price-demand relationship
 !["Price-demand relationship"](output/images/Discounted%20Price%20VS%20Demand.png)
 
+<img width="574" height="458" alt="Discounted Price VS Demand" src="https://github.com/user-attachments/assets/3f0596ac-1aaf-4752-b7b6-438a66380d86" />
+
 * Seasonal demand
 !["Seasonal demand"](output/images/Demand%20By%20Seasonality.png)
+
+<img width="553" height="501" alt="Demand By Seasonality" src="https://github.com/user-attachments/assets/fcb2ec29-d030-4a8e-b758-7e090f9d1e36" />
+
 
 * Weather-related demand
 ![" Weather-related demand"](output/images/Demnd%20BY%20Weather%20Condition.png)
 
+<img width="574" height="487" alt="Demnd BY Weather Condition" src="https://github.com/user-attachments/assets/9335c0cb-ec31-49b1-bd80-ff192fef28aa" />
+
 * Daily demand trends
 !["Daily demand trends"](output/images/Total%20Daily%20Demand%20Ove%20Time.png)
+
+<img width="590" height="477" alt="Total Daily Demand Ove Time" src="https://github.com/user-attachments/assets/239087e5-2b3e-435f-91ba-a6382fb507b4" />
 
 
 
@@ -641,7 +659,6 @@ Demand-Forecasting/
 
 
 
-<img width="553" height="460" alt="Average Demand By Month" src="https://github.com/user-attachments/assets/2e5980f9-05d7-4370-94c8-037edad498c2" />
 
 
 
