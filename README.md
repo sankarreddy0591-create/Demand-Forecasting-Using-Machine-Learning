@@ -465,6 +465,9 @@ A collection of visualizations showing:
 * Daily demand trends
 !["Daily demand trends"](output/images/Total%20Daily%20Demand%20Ove%20Time.png)
 
+
+
+
 ### 🤖 Machine Learning Model
 
 An optimized **XGBoost Regression model** is developed for demand prediction.
@@ -635,4 +638,20 @@ Demand-Forecasting/
 ```
 
 ---
+
+
+
+<img width="553" height="460" alt="Average Demand By Month" src="https://github.com/user-attachments/assets/2e5980f9-05d7-4370-94c8-037edad498c2" />
+
+
+
+
+
+
+
+
+
+
+
+
 
